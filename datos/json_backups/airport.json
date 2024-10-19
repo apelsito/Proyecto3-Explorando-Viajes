@@ -1,0 +1,206 @@
+{
+    "status": true,
+    "timestamp": 1729366462021,
+    "data": [
+        {
+            "skyId": "MAD",
+            "entityId": "95565077",
+            "presentation": {
+                "title": "Madrid-Barajas",
+                "suggestionTitle": "Madrid-Barajas (MAD)",
+                "subtitle": "España"
+            },
+            "navigation": {
+                "entityId": "95565077",
+                "entityType": "AIRPORT",
+                "localizedName": "Madrid-Barajas",
+                "relevantFlightParams": {
+                    "skyId": "MAD",
+                    "entityId": "95565077",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Madrid-Barajas"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27544850",
+                    "entityType": "CITY",
+                    "localizedName": "Madrid"
+                }
+            }
+        },
+        {
+            "skyId": "OSLO",
+            "entityId": "27538634",
+            "presentation": {
+                "title": "Oslo",
+                "suggestionTitle": "Oslo (Todos)",
+                "subtitle": "Noruega"
+            },
+            "navigation": {
+                "entityId": "27538634",
+                "entityType": "CITY",
+                "localizedName": "Oslo",
+                "relevantFlightParams": {
+                    "skyId": "OSLO",
+                    "entityId": "27538634",
+                    "flightPlaceType": "CITY",
+                    "localizedName": "Oslo"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27538634",
+                    "entityType": "CITY",
+                    "localizedName": "Oslo"
+                }
+            }
+        },
+        {
+            "skyId": "OSL",
+            "entityId": "128667763",
+            "presentation": {
+                "title": "Oslo-Gardermoen",
+                "suggestionTitle": "Oslo-Gardermoen (OSL)",
+                "subtitle": "Noruega"
+            },
+            "navigation": {
+                "entityId": "128667763",
+                "entityType": "AIRPORT",
+                "localizedName": "Oslo-Gardermoen",
+                "relevantFlightParams": {
+                    "skyId": "OSL",
+                    "entityId": "128667763",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Oslo-Gardermoen"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27538634",
+                    "entityType": "CITY",
+                    "localizedName": "Oslo"
+                }
+            }
+        },
+        {
+            "skyId": "TRF",
+            "entityId": "128667636",
+            "presentation": {
+                "title": "Sandefjord Torp",
+                "suggestionTitle": "Sandefjord Torp (TRF)",
+                "subtitle": "Noruega"
+            },
+            "navigation": {
+                "entityId": "128667636",
+                "entityType": "AIRPORT",
+                "localizedName": "Sandefjord Torp",
+                "relevantFlightParams": {
+                    "skyId": "TRF",
+                    "entityId": "128667636",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Sandefjord Torp"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27538634",
+                    "entityType": "CITY",
+                    "localizedName": "Oslo"
+                }
+            }
+        },
+        {
+            "skyId": "NCE",
+            "entityId": "95673860",
+            "presentation": {
+                "title": "Niza",
+                "suggestionTitle": "Niza (NCE)",
+                "subtitle": "Francia"
+            },
+            "navigation": {
+                "entityId": "95673860",
+                "entityType": "AIRPORT",
+                "localizedName": "Niza",
+                "relevantFlightParams": {
+                    "skyId": "NCE",
+                    "entityId": "95673860",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Niza"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27545091",
+                    "entityType": "CITY",
+                    "localizedName": "Niza"
+                }
+            }
+        },
+        {
+            "skyId": "FNI",
+            "entityId": "128668582",
+            "presentation": {
+                "title": "Nîmes",
+                "suggestionTitle": "Nîmes (FNI)",
+                "subtitle": "Francia"
+            },
+            "navigation": {
+                "entityId": "128668582",
+                "entityType": "AIRPORT",
+                "localizedName": "Nîmes",
+                "relevantFlightParams": {
+                    "skyId": "FNI",
+                    "entityId": "128668582",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Nîmes"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27541686",
+                    "entityType": "CITY",
+                    "localizedName": "Nimes"
+                }
+            }
+        },
+        {
+            "skyId": "NU",
+            "entityId": "29475174",
+            "presentation": {
+                "title": "Niue",
+                "suggestionTitle": "Niue",
+                "subtitle": ""
+            },
+            "navigation": {
+                "entityId": "29475174",
+                "entityType": "COUNTRY",
+                "localizedName": "Niue",
+                "relevantFlightParams": {
+                    "skyId": "NU",
+                    "entityId": "29475174",
+                    "flightPlaceType": "COUNTRY",
+                    "localizedName": "Niue"
+                },
+                "relevantHotelParams": {
+                    "entityId": "29475174",
+                    "entityType": "COUNTRY",
+                    "localizedName": "Niue"
+                }
+            }
+        },
+        {
+            "skyId": "IUE",
+            "entityId": "128668693",
+            "presentation": {
+                "title": "Niue",
+                "suggestionTitle": "Niue (IUE)",
+                "subtitle": "Niue"
+            },
+            "navigation": {
+                "entityId": "128668693",
+                "entityType": "AIRPORT",
+                "localizedName": "Niue",
+                "relevantFlightParams": {
+                    "skyId": "IUE",
+                    "entityId": "128668693",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Niue"
+                },
+                "relevantHotelParams": {
+                    "entityId": "46758997",
+                    "entityType": "CITY",
+                    "localizedName": "Avatele"
+                }
+            }
+        }
+    ]
+}
