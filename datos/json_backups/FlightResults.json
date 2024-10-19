@@ -1,0 +1,2301 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "context": {
+            "status": "incomplete",
+            "sessionId": "ClQIARJQCk4KJGY4NGFlOTA2LTZhNjgtNDM2MC05YTZhLTg0NGViYjA3NzUwOBACGiRhODQwMjc5OC04Nzg5LTRmYWMtYWYxMC1iMDA5MmI2MmQzZGISKHVzc19jYjI3YjQyMy05NGYyLTQ2NWQtOGI0NC05NDFkOWFkNmVhYmY=",
+            "totalResults": 10
+        },
+        "itineraries": [
+            {
+                "id": "13870-2410241015--32222-0-14581-2410241210|14581-2410271900--32222-0-13870-2410272100",
+                "price": {
+                    "raw": 1969.04,
+                    "formatted": "1,970 €",
+                    "pricingOptionId": "KDI3UJAlq78x"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410241015--32222-0-14581-2410241210",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 115,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T10:15:00",
+                        "arrival": "2024-10-24T12:10:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-14581-2410241015-2410241210--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T10:15:00",
+                                "arrival": "2024-10-24T12:10:00",
+                                "durationInMinutes": 115,
+                                "flightNumber": "8726",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271900--32222-0-13870-2410272100",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T19:00:00",
+                        "arrival": "2024-10-27T21:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271900-2410272100--32222",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T19:00:00",
+                                "arrival": "2024-10-27T21:00:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1214",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 27.515114
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.999
+            },
+            {
+                "id": "13870-2410241720--32222-0-14581-2410241915|14581-2410271900--32222-0-13870-2410272100",
+                "price": {
+                    "raw": 2035.29,
+                    "formatted": "2,036 €",
+                    "pricingOptionId": "9rzFknTMAxKb"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410241720--32222-0-14581-2410241915",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 115,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T17:20:00",
+                        "arrival": "2024-10-24T19:15:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-14581-2410241720-2410241915--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T17:20:00",
+                                "arrival": "2024-10-24T19:15:00",
+                                "durationInMinutes": 115,
+                                "flightNumber": "8730",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271900--32222-0-13870-2410272100",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T19:00:00",
+                        "arrival": "2024-10-27T21:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271900-2410272100--32222",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T19:00:00",
+                                "arrival": "2024-10-27T21:00:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1214",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 27.515114
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.875323
+            },
+            {
+                "id": "13870-2410240925--31685-1-14581-2410241545|14581-2410271430--32356-0-13870-2410271630",
+                "price": {
+                    "raw": 940.6,
+                    "formatted": "941 €",
+                    "pricingOptionId": "_ocOcwrHHbQH"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410240925--31685-1-14581-2410241545",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 380,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T09:25:00",
+                        "arrival": "2024-10-24T15:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31685,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                                    "name": "Vueling Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2410240925-2410241045--31685",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-24T09:25:00",
+                                "arrival": "2024-10-24T10:45:00",
+                                "durationInMinutes": 80,
+                                "flightNumber": "1003",
+                                "marketingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "9772-14581-2410241420-2410241545--31685",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T14:20:00",
+                                "arrival": "2024-10-24T15:45:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1521",
+                                "marketingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271430--32356-0-13870-2410271630",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T14:30:00",
+                        "arrival": "2024-10-27T16:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32356,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
+                                    "name": "easyJet"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271430-2410271630--32356",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T14:30:00",
+                                "arrival": "2024-10-27T16:30:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1703",
+                                "marketingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 30.157948
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "cheapest"
+                ],
+                "isMashUp": true,
+                "hasFlexibleOptions": false,
+                "score": 0.830746
+            },
+            {
+                "id": "13870-2410242210--32222-0-14581-2410250005|14581-2410271430--32356-0-13870-2410271630",
+                "price": {
+                    "raw": 1553.13,
+                    "formatted": "1,554 €",
+                    "pricingOptionId": "fsMxdLq1-rdv"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410242210--32222-0-14581-2410250005",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 115,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T22:10:00",
+                        "arrival": "2024-10-25T00:05:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-14581-2410242210-2410250005--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T22:10:00",
+                                "arrival": "2024-10-25T00:05:00",
+                                "durationInMinutes": 115,
+                                "flightNumber": "8732",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271430--32356-0-13870-2410271630",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T14:30:00",
+                        "arrival": "2024-10-27T16:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32356,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
+                                    "name": "easyJet"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271430-2410271630--32356",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T14:30:00",
+                                "arrival": "2024-10-27T16:30:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1703",
+                                "marketingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 32.86617
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.820266
+            },
+            {
+                "id": "13870-2410242210--32222-0-14581-2410250005|14581-2410271900--32222-0-13870-2410272100",
+                "price": {
+                    "raw": 1792.37,
+                    "formatted": "1,793 €",
+                    "pricingOptionId": "zeo1upmhne11"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410242210--32222-0-14581-2410250005",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 115,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T22:10:00",
+                        "arrival": "2024-10-25T00:05:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-14581-2410242210-2410250005--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T22:10:00",
+                                "arrival": "2024-10-25T00:05:00",
+                                "durationInMinutes": 115,
+                                "flightNumber": "8732",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271900--32222-0-13870-2410272100",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T19:00:00",
+                        "arrival": "2024-10-27T21:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271900-2410272100--32222",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T19:00:00",
+                                "arrival": "2024-10-27T21:00:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1214",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 27.515114
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "second_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.769794
+            },
+            {
+                "id": "13870-2410241015--32222-0-14581-2410241210|14581-2410271235--32222-0-13870-2410271435",
+                "price": {
+                    "raw": 2171.48,
+                    "formatted": "2,172 €",
+                    "pricingOptionId": "-16NPwEGYPV7"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410241015--32222-0-14581-2410241210",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 115,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T10:15:00",
+                        "arrival": "2024-10-24T12:10:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-14581-2410241015-2410241210--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T10:15:00",
+                                "arrival": "2024-10-24T12:10:00",
+                                "durationInMinutes": 115,
+                                "flightNumber": "8726",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271235--32222-0-13870-2410271435",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T12:35:00",
+                        "arrival": "2024-10-27T14:35:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271235-2410271435--32222",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T12:35:00",
+                                "arrival": "2024-10-27T14:35:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1212",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 27.515114
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.767222
+            },
+            {
+                "id": "13870-2410241720--32222-0-14581-2410241915|14581-2410271235--32222-0-13870-2410271435",
+                "price": {
+                    "raw": 2237.73,
+                    "formatted": "2,238 €",
+                    "pricingOptionId": "LseyH0uNk3cS"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410241720--32222-0-14581-2410241915",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 115,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T17:20:00",
+                        "arrival": "2024-10-24T19:15:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-14581-2410241720-2410241915--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T17:20:00",
+                                "arrival": "2024-10-24T19:15:00",
+                                "durationInMinutes": 115,
+                                "flightNumber": "8730",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271235--32222-0-13870-2410271435",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T12:35:00",
+                        "arrival": "2024-10-27T14:35:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271235-2410271435--32222",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T12:35:00",
+                                "arrival": "2024-10-27T14:35:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1212",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 27.515114
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.729379
+            },
+            {
+                "id": "13870-2410241720--31685-1-14581-2410242115|14581-2410271430--32356-0-13870-2410271630",
+                "price": {
+                    "raw": 1195.16,
+                    "formatted": "1,196 €",
+                    "pricingOptionId": "rQ2K6YAU6PbW"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410241720--31685-1-14581-2410242115",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 235,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T17:20:00",
+                        "arrival": "2024-10-24T21:15:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31685,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                                    "name": "Vueling Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2410241720-2410241840--31685",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-24T17:20:00",
+                                "arrival": "2024-10-24T18:40:00",
+                                "durationInMinutes": 80,
+                                "flightNumber": "1007",
+                                "marketingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "9772-14581-2410241955-2410242115--31685",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T19:55:00",
+                                "arrival": "2024-10-24T21:15:00",
+                                "durationInMinutes": 80,
+                                "flightNumber": "1517",
+                                "marketingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271430--32356-0-13870-2410271630",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T14:30:00",
+                        "arrival": "2024-10-27T16:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32356,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
+                                    "name": "easyJet"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271430-2410271630--32356",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T14:30:00",
+                                "arrival": "2024-10-27T16:30:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1703",
+                                "marketingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 28.495901
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_cheapest"
+                ],
+                "isMashUp": true,
+                "hasFlexibleOptions": false,
+                "score": 0.70914
+            },
+            {
+                "id": "13870-2410242210--32222-0-14581-2410250005|14581-2410271235--32222-0-13870-2410271435",
+                "price": {
+                    "raw": 1994.81,
+                    "formatted": "1,995 €",
+                    "pricingOptionId": "MxWawwQSXMsV"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410242210--32222-0-14581-2410250005",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 115,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T22:10:00",
+                        "arrival": "2024-10-25T00:05:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-14581-2410242210-2410250005--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T22:10:00",
+                                "arrival": "2024-10-25T00:05:00",
+                                "durationInMinutes": 115,
+                                "flightNumber": "8732",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271235--32222-0-13870-2410271435",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T12:35:00",
+                        "arrival": "2024-10-27T14:35:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32639,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/YW.png",
+                                    "name": "Air Nostrum"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271235-2410271435--32222",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T12:35:00",
+                                "arrival": "2024-10-27T14:35:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1212",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32639,
+                                    "name": "Air Nostrum",
+                                    "alternateId": "YW",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 27.515114
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.707598
+            },
+            {
+                "id": "13870-2410240925--31685,-32356-1-14581-2410241455|14581-2410271430--32356-0-13870-2410271630",
+                "price": {
+                    "raw": 1044.43,
+                    "formatted": "1,045 €",
+                    "pricingOptionId": "gN2YnwQ9Emoy"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2410240925--31685,-32356-1-14581-2410241455",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 330,
+                        "stopCount": 1,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-24T09:25:00",
+                        "arrival": "2024-10-24T14:55:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31685,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                                    "name": "Vueling Airlines"
+                                },
+                                {
+                                    "id": -32356,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
+                                    "name": "easyJet"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2410240925-2410241045--31685",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-24T09:25:00",
+                                "arrival": "2024-10-24T10:45:00",
+                                "durationInMinutes": 80,
+                                "flightNumber": "1003",
+                                "marketingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            },
+                            {
+                                "id": "9772-14581-2410241335-2410241455--32356",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "departure": "2024-10-24T13:35:00",
+                                "arrival": "2024-10-24T14:55:00",
+                                "durationInMinutes": 80,
+                                "flightNumber": "1708",
+                                "marketingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14581-2410271430--32356-0-13870-2410271630",
+                        "origin": {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice",
+                            "displayCode": "NCE",
+                            "city": "Nice",
+                            "country": "France",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 120,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-10-27T14:30:00",
+                        "arrival": "2024-10-27T16:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32356,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
+                                    "name": "easyJet"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "14581-13870-2410271430-2410271630--32356",
+                                "origin": {
+                                    "flightPlaceId": "NCE",
+                                    "displayCode": "NCE",
+                                    "parent": {
+                                        "flightPlaceId": "NICE",
+                                        "displayCode": "NCE",
+                                        "name": "Nice",
+                                        "type": "City"
+                                    },
+                                    "name": "Nice",
+                                    "type": "Airport",
+                                    "country": "France"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-10-27T14:30:00",
+                                "arrival": "2024-10-27T16:30:00",
+                                "durationInMinutes": 120,
+                                "flightNumber": "1703",
+                                "marketingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32356,
+                                    "name": "easyJet",
+                                    "alternateId": "EZ",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": true,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 29.226702
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "second_cheapest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.680028
+            }
+        ],
+        "messages": [],
+        "filterStats": {
+            "duration": {
+                "min": 120,
+                "max": 380,
+                "multiCityMin": 235,
+                "multiCityMax": 500
+            },
+            "airports": [
+                {
+                    "city": "Madrid",
+                    "airports": [
+                        {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid"
+                        }
+                    ]
+                },
+                {
+                    "city": "Nice",
+                    "airports": [
+                        {
+                            "id": "NCE",
+                            "entityId": "95673860",
+                            "name": "Nice"
+                        }
+                    ]
+                }
+            ],
+            "carriers": [
+                {
+                    "id": -32356,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
+                    "name": "easyJet"
+                },
+                {
+                    "id": -32222,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                    "name": "Iberia"
+                },
+                {
+                    "id": -31685,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                    "name": "Vueling Airlines"
+                }
+            ],
+            "stopPrices": {
+                "direct": {
+                    "isPresent": true,
+                    "formattedPrice": "1,554 €"
+                },
+                "one": {
+                    "isPresent": true,
+                    "formattedPrice": "941 €"
+                },
+                "twoOrMore": {
+                    "isPresent": false
+                }
+            }
+        },
+        "flightsSessionId": "f84ae906-6a68-4360-9a6a-844ebb077508",
+        "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg"
+    }
+}

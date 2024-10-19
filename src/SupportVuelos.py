@@ -59,17 +59,48 @@ def get_airport(city):
 
     return resultado
 
-def get_flights():
+def search_querys(df_flights,dates):
+    skyId = df_flights["skyId"].tolist()
+    entityId = df_flights["entityId"].tolist()
+    cabinClass = ["economy","premium_economy","business","first"]
+    querystrings = []
+
+    for i in range(1,len(entityId)):
+        for date in dates:
+            for clase in cabinClass:
+                querystring = {
+                    "originSkyId":skyId[0],
+                    "destinationSkyId":"NCE",
+                    "originEntityId": entityId[0],
+                    "destinationEntityId": entityId[i],
+                    "date":date[0],
+                    "returnDate":date[1],
+                    "cabinClass":clase,
+                    "adults":"4",
+                    "sortBy":"best",
+                    "limit" : "10",
+                    "currency":"EUR",
+                    "market":"es-ES",
+                    "countryCode":"ES"
+                    }
+                
+                querystrings.append(querystring)
+        
+    return querystrings
+
+def get_flights(df_flights,dates):
+    
+    key = os.getenv("airscraperTest")
     url = "https://sky-scrapper.p.rapidapi.com/api/v2/flights/searchFlightsComplete"
-    querystring = {"originSkyId":"LOND",
-                   "destinationSkyId":"NYCA",
-                   "originEntityId":"27544008",
-                   "destinationEntityId":"27537542",
-                   "cabinClass":"economy",
-                   "adults":"1",
-                   "sortBy":"best",
-                   "currency":"USD",
-                   "market":"en-US",
-                   "countryCode":"US"
-                   }
+
+    querystring = search_querys(df_flights,dates)
+
+    headers = {
+	    "x-rapidapi-key": key,
+	    "x-rapidapi-host": "sky-scrapper.p.rapidapi.com"
+    }
+
+    response = requests.get(url, headers=headers, params=querystring)
+
     return
+
