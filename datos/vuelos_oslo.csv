@@ -1,0 +1,166 @@
+,index,clase,precio (€),origen_ida,destino_ida,duracion_ida (min),fecha_salida_ida,fecha_llegada_ida,aerolínea_ida,origen_vuelta,destino_vuelta,duracion_vuelta (min),fecha_salida_vuelta,fecha_llegada_vuelta,aerolínea_vuelta
+0,125,economy,1145,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,230,2024-10-27 15:00:00,2024-10-27 18:50:00,Iberia
+1,126,economy,1133,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,225,2024-10-27 15:50:00,2024-10-27 19:35:00,Norwegian
+2,127,economy,1249,Madrid,Oslo,215,2024-10-24 20:00:00,2024-10-24 23:35:00,Norwegian,Oslo,Madrid,225,2024-10-27 15:50:00,2024-10-27 19:35:00,Norwegian
+3,128,economy,1388,Madrid,Oslo,215,2024-10-24 20:00:00,2024-10-24 23:35:00,Norwegian,Oslo,Madrid,230,2024-10-27 15:00:00,2024-10-27 18:50:00,Iberia
+4,129,economy,1042,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,380,2024-10-27 13:45:00,2024-10-27 20:05:00,Lufthansa
+5,130,economy,1061,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,455,2024-10-27 16:20:00,2024-10-27 23:55:00,Lufthansa
+6,131,economy,1266,Madrid,Oslo,305,2024-10-24 06:00:00,2024-10-24 11:05:00,KLM,Oslo,Madrid,405,2024-10-27 09:20:00,2024-10-27 16:05:00,KLM
+7,132,economy,1090,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,350,2024-10-27 11:50:00,2024-10-27 17:40:00,Lufthansa
+8,133,economy,1042,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,360,2024-10-27 09:35:00,2024-10-27 15:35:00,Lufthansa
+9,134,economy,1633,Madrid,Oslo,305,2024-10-24 06:00:00,2024-10-24 11:05:00,KLM,Oslo,Madrid,225,2024-10-27 15:50:00,2024-10-27 19:35:00,Norwegian
+10,135,economy,932,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,400,2024-10-27 06:20:00,2024-10-27 13:00:00,Lufthansa
+11,136,premium_economy,3271,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,435,2024-10-27 16:10:00,2024-10-27 23:25:00,Scandinavian Airlines
+12,137,premium_economy,4907,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,405,2024-10-27 13:05:00,2024-10-27 19:50:00,Scandinavian Airlines
+13,138,premium_economy,3120,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,1300,2024-10-27 11:25:00,2024-10-28 09:05:00,Scandinavian Airlines
+14,139,premium_economy,5330,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,425,2024-10-27 06:30:00,2024-10-27 13:35:00,Scandinavian Airlines
+15,140,premium_economy,5443,Madrid,Oslo,435,2024-10-24 08:25:00,2024-10-24 15:40:00,Lufthansa,Oslo,Madrid,435,2024-10-27 16:10:00,2024-10-27 23:25:00,Scandinavian Airlines
+16,141,premium_economy,5422,Madrid,Oslo,380,2024-10-24 10:15:00,2024-10-24 16:35:00,Finnair,Oslo,Madrid,435,2024-10-27 16:10:00,2024-10-27 23:25:00,Scandinavian Airlines
+17,142,premium_economy,5443,Madrid,Oslo,410,2024-10-24 17:00:00,2024-10-24 23:50:00,Lufthansa,Oslo,Madrid,435,2024-10-27 16:10:00,2024-10-27 23:25:00,Scandinavian Airlines
+18,143,premium_economy,6487,Madrid,Oslo,435,2024-10-24 07:05:00,2024-10-24 14:20:00,Air Europa,Oslo,Madrid,425,2024-10-27 06:30:00,2024-10-27 13:35:00,Scandinavian Airlines
+19,144,premium_economy,5727,Madrid,Oslo,545,2024-10-24 08:25:00,2024-10-24 17:30:00,Austrian Airlines,Oslo,Madrid,435,2024-10-27 16:10:00,2024-10-27 23:25:00,Scandinavian Airlines
+20,145,premium_economy,7058,Madrid,Oslo,380,2024-10-24 10:15:00,2024-10-24 16:35:00,Finnair,Oslo,Madrid,405,2024-10-27 13:05:00,2024-10-27 19:50:00,Scandinavian Airlines
+21,146,premium_economy,3393,Madrid,Oslo,610,2024-10-24 06:10:00,2024-10-24 16:20:00,Scandinavian Airlines,Oslo,Madrid,1300,2024-10-27 11:25:00,2024-10-28 09:05:00,Scandinavian Airlines
+22,147,business,2722,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,230,2024-10-27 15:00:00,2024-10-27 18:50:00,Iberia
+23,148,business,3667,Madrid,Oslo,365,2024-10-24 17:25:00,2024-10-24 23:30:00,Iberia,Oslo,Madrid,230,2024-10-27 15:00:00,2024-10-27 18:50:00,Iberia
+24,149,business,3317,Madrid,Oslo,375,2024-10-24 13:30:00,2024-10-24 19:45:00,Iberia,Oslo,Madrid,230,2024-10-27 15:00:00,2024-10-27 18:50:00,Iberia
+25,150,business,3705,Madrid,Oslo,435,2024-10-24 08:25:00,2024-10-24 15:40:00,Lufthansa,Oslo,Madrid,360,2024-10-27 09:35:00,2024-10-27 15:35:00,Lufthansa
+26,151,business,3409,Madrid,Oslo,435,2024-10-24 08:25:00,2024-10-24 15:40:00,Lufthansa,Oslo,Madrid,325,2024-10-27 18:00:00,2024-10-27 23:25:00,Brussels Airlines
+27,152,business,3083,Madrid,Oslo,610,2024-10-24 12:40:00,2024-10-24 22:50:00,Brussels Airlines,Oslo,Madrid,325,2024-10-27 18:00:00,2024-10-27 23:25:00,Brussels Airlines
+28,153,business,3457,Madrid,Oslo,410,2024-10-24 17:00:00,2024-10-24 23:50:00,Lufthansa,Oslo,Madrid,455,2024-10-27 16:20:00,2024-10-27 23:55:00,Lufthansa
+29,154,business,4681,Madrid,Oslo,225,2024-10-24 14:35:00,2024-10-24 18:20:00,Iberia,Oslo,Madrid,345,2024-10-27 13:00:00,2024-10-27 18:45:00,SWISS
+30,155,business,3457,Madrid,Oslo,410,2024-10-24 17:00:00,2024-10-24 23:50:00,Lufthansa,Oslo,Madrid,325,2024-10-27 18:00:00,2024-10-27 23:25:00,Brussels Airlines
+31,156,business,3757,Madrid,Oslo,410,2024-10-24 17:00:00,2024-10-24 23:50:00,Lufthansa,Oslo,Madrid,360,2024-10-27 09:35:00,2024-10-27 15:35:00,Lufthansa
+32,157,business,3317,Madrid,Oslo,635,2024-10-24 09:10:00,2024-10-24 19:45:00,Iberia,Oslo,Madrid,230,2024-10-27 15:00:00,2024-10-27 18:50:00,Iberia
+33,158,economy,2297,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,230,2024-11-03 15:00:00,2024-11-03 18:50:00,Iberia
+34,159,economy,1233,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,415,2024-11-03 10:45:00,2024-11-03 17:40:00,Norwegian Air Sweden
+35,160,economy,1333,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,430,2024-11-03 06:30:00,2024-11-03 13:40:00,Norwegian
+36,161,economy,1358,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,380,2024-11-03 11:20:00,2024-11-03 17:40:00,Scandinavian Airlines
+37,162,economy,1365,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,505,2024-11-03 14:10:00,2024-11-03 22:35:00,Norwegian
+38,163,economy,1228,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,415,2024-11-03 06:45:00,2024-11-03 13:40:00,Scandinavian Airlines
+39,164,economy,1322,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,460,2024-11-03 10:00:00,2024-11-03 17:40:00,Scandinavian Airlines
+40,165,economy,1076,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,840,2024-11-03 19:45:00,2024-11-04 09:45:00,Norwegian Air Sweden
+41,166,economy,2077,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,360,2024-11-03 09:35:00,2024-11-03 15:35:00,Lufthansa
+42,167,economy,2192,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,440,2024-11-03 12:55:00,2024-11-03 20:15:00,TAP Air Portugal
+43,168,economy,1845,Madrid,Oslo,225,2024-10-31 18:10:00,2024-10-31 21:55:00,Norwegian,Oslo,Madrid,400,2024-11-03 06:20:00,2024-11-03 13:00:00,Lufthansa
+44,169,premium_economy,6294,Madrid,Oslo,315,2024-10-31 17:35:00,2024-10-31 22:50:00,Brussels Airlines,Oslo,Madrid,405,2024-11-03 13:05:00,2024-11-03 19:50:00,Scandinavian Airlines
+45,170,premium_economy,6294,Madrid,Oslo,645,2024-10-31 06:25:00,2024-10-31 17:10:00,Brussels Airlines,Oslo,Madrid,405,2024-11-03 13:05:00,2024-11-03 19:50:00,Scandinavian Airlines
+46,171,premium_economy,4371,Madrid,Oslo,315,2024-10-31 17:35:00,2024-10-31 22:50:00,Brussels Airlines,Oslo,Madrid,1310,2024-11-03 11:25:00,2024-11-04 09:15:00,Scandinavian Airlines
+47,172,premium_economy,6332,Madrid,Oslo,590,2024-10-31 13:55:00,2024-10-31 23:45:00,Lufthansa,Oslo,Madrid,405,2024-11-03 13:05:00,2024-11-03 19:50:00,Scandinavian Airlines
+48,173,premium_economy,7058,Madrid,Oslo,590,2024-10-31 10:20:00,2024-10-31 20:10:00,Finnair,Oslo,Madrid,405,2024-11-03 13:05:00,2024-11-03 19:50:00,Scandinavian Airlines
+49,174,premium_economy,4371,Madrid,Oslo,645,2024-10-31 06:25:00,2024-10-31 17:10:00,Brussels Airlines,Oslo,Madrid,1310,2024-11-03 11:25:00,2024-11-04 09:15:00,Scandinavian Airlines
+50,175,premium_economy,3594,Madrid,Oslo,1090,2024-10-31 15:40:00,2024-11-01 09:50:00,LOT,Oslo,Madrid,1310,2024-11-03 11:25:00,2024-11-04 09:15:00,Scandinavian Airlines
+51,176,premium_economy,4409,Madrid,Oslo,590,2024-10-31 13:55:00,2024-10-31 23:45:00,Lufthansa,Oslo,Madrid,1310,2024-11-03 11:25:00,2024-11-04 09:15:00,Scandinavian Airlines
+52,177,premium_economy,5156,Madrid,Oslo,390,2024-10-31 06:15:00,2024-10-31 12:45:00,Lufthansa,Oslo,Madrid,1310,2024-11-03 11:25:00,2024-11-04 09:15:00,Scandinavian Airlines
+53,178,premium_economy,3538,Madrid,Oslo,1270,2024-10-31 14:55:00,2024-11-01 12:05:00,TAP Air Portugal,Oslo,Madrid,1310,2024-11-03 11:25:00,2024-11-04 09:15:00,Scandinavian Airlines
+54,179,premium_economy,6597,Madrid,Oslo,520,2024-10-31 06:35:00,2024-10-31 15:15:00,Air Europa,Oslo,Madrid,910,2024-11-03 06:45:00,2024-11-03 21:55:00,Scandinavian Airlines
+55,180,business,4506,Madrid,Oslo,410,2024-10-31 15:50:00,2024-10-31 22:40:00,Iberia,Oslo,Madrid,230,2024-11-03 15:00:00,2024-11-03 18:50:00,Iberia
+56,181,business,4506,Madrid,Oslo,440,2024-10-31 06:55:00,2024-10-31 14:15:00,Iberia,Oslo,Madrid,230,2024-11-03 15:00:00,2024-11-03 18:50:00,Iberia
+57,182,business,5043,Madrid,Oslo,315,2024-10-31 17:35:00,2024-10-31 22:50:00,Brussels Airlines,Oslo,Madrid,230,2024-11-03 15:00:00,2024-11-03 18:50:00,Iberia
+58,183,business,3763,Madrid,Oslo,315,2024-10-31 17:35:00,2024-10-31 22:50:00,Brussels Airlines,Oslo,Madrid,380,2024-11-03 13:45:00,2024-11-03 20:05:00,Lufthansa
+59,184,business,4053,Madrid,Oslo,390,2024-10-31 06:15:00,2024-10-31 12:45:00,Lufthansa,Oslo,Madrid,380,2024-11-03 13:45:00,2024-11-03 20:05:00,Lufthansa
+60,185,business,3693,Madrid,Oslo,315,2024-10-31 17:35:00,2024-10-31 22:50:00,Brussels Airlines,Oslo,Madrid,360,2024-11-03 09:35:00,2024-11-03 15:35:00,Lufthansa
+61,186,business,3989,Madrid,Oslo,390,2024-10-31 06:15:00,2024-10-31 12:45:00,Lufthansa,Oslo,Madrid,360,2024-11-03 09:35:00,2024-11-03 15:35:00,Lufthansa
+62,187,business,4506,Madrid,Oslo,455,2024-10-31 15:05:00,2024-10-31 22:40:00,Iberia,Oslo,Madrid,230,2024-11-03 15:00:00,2024-11-03 18:50:00,Iberia
+63,188,business,4539,Madrid,Oslo,440,2024-10-31 06:55:00,2024-10-31 14:15:00,Iberia,Oslo,Madrid,230,2024-11-03 15:00:00,2024-11-03 18:50:00,Iberia
+64,189,business,3855,Madrid,Oslo,315,2024-10-31 17:35:00,2024-10-31 22:50:00,Brussels Airlines,Oslo,Madrid,455,2024-11-03 16:20:00,2024-11-03 23:55:00,Lufthansa
+65,190,business,4145,Madrid,Oslo,390,2024-10-31 06:15:00,2024-10-31 12:45:00,Lufthansa,Oslo,Madrid,455,2024-11-03 16:20:00,2024-11-03 23:55:00,Lufthansa
+66,191,economy,736,Madrid,Oslo,225,2024-11-07 10:55:00,2024-11-07 14:40:00,Norwegian,Oslo,Madrid,225,2024-11-10 15:50:00,2024-11-10 19:35:00,Norwegian
+67,192,economy,888,Madrid,Oslo,225,2024-11-07 10:55:00,2024-11-07 14:40:00,Norwegian,Oslo,Madrid,230,2024-11-10 15:00:00,2024-11-10 18:50:00,Iberia
+68,193,economy,681,Madrid,Oslo,350,2024-11-07 12:05:00,2024-11-07 17:55:00,Lufthansa,Oslo,Madrid,325,2024-11-10 18:00:00,2024-11-10 23:25:00,Brussels Airlines
+69,194,economy,645,Madrid,Oslo,645,2024-11-07 06:25:00,2024-11-07 17:10:00,Brussels Airlines,Oslo,Madrid,325,2024-11-10 18:00:00,2024-11-10 23:25:00,Brussels Airlines
+70,195,economy,910,Madrid,Oslo,350,2024-11-07 12:05:00,2024-11-07 17:55:00,Lufthansa,Oslo,Madrid,350,2024-11-10 11:50:00,2024-11-10 17:40:00,Lufthansa
+71,196,economy,1024,Madrid,Oslo,225,2024-11-07 10:55:00,2024-11-07 14:40:00,Norwegian,Oslo,Madrid,380,2024-11-10 13:45:00,2024-11-10 20:05:00,Lufthansa
+72,197,economy,794,Madrid,Oslo,350,2024-11-07 12:05:00,2024-11-07 17:55:00,Lufthansa,Oslo,Madrid,380,2024-11-10 13:45:00,2024-11-10 20:05:00,Lufthansa
+73,198,economy,902,Madrid,Oslo,350,2024-11-07 12:05:00,2024-11-07 17:55:00,Lufthansa,Oslo,Madrid,360,2024-11-10 09:35:00,2024-11-10 15:35:00,Lufthansa
+74,199,economy,899,Madrid,Oslo,350,2024-11-07 12:05:00,2024-11-07 17:55:00,Lufthansa,Oslo,Madrid,345,2024-11-10 13:00:00,2024-11-10 18:45:00,SWISS
+75,200,economy,715,Madrid,Oslo,350,2024-11-07 12:05:00,2024-11-07 17:55:00,Lufthansa,Oslo,Madrid,455,2024-11-10 16:20:00,2024-11-10 23:55:00,Lufthansa
+76,201,economy,921,Madrid,Oslo,225,2024-11-07 10:55:00,2024-11-07 14:40:00,Norwegian,Oslo,Madrid,380,2024-11-10 11:20:00,2024-11-10 17:40:00,Scandinavian Airlines
+77,202,premium_economy,2378,Madrid,Oslo,325,2024-11-07 10:05:00,2024-11-07 15:30:00,SWISS,Oslo,Madrid,230,2024-11-10 15:00:00,2024-11-10 18:50:00,Iberia
+78,203,premium_economy,2371,Madrid,Oslo,325,2024-11-07 10:05:00,2024-11-07 15:30:00,SWISS,Oslo,Madrid,440,2024-11-10 11:25:00,2024-11-10 18:45:00,Scandinavian Airlines
+79,204,premium_economy,3616,Madrid,Oslo,325,2024-11-07 10:05:00,2024-11-07 15:30:00,SWISS,Oslo,Madrid,345,2024-11-10 13:00:00,2024-11-10 18:45:00,SWISS
+80,205,premium_economy,2788,Madrid,Oslo,325,2024-11-07 10:05:00,2024-11-07 15:30:00,SWISS,Oslo,Madrid,365,2024-11-10 17:00:00,2024-11-10 23:05:00,Scandinavian Airlines
+81,206,premium_economy,2788,Madrid,Oslo,325,2024-11-07 10:05:00,2024-11-07 15:30:00,SWISS,Oslo,Madrid,380,2024-11-10 16:45:00,2024-11-10 23:05:00,Scandinavian Airlines
+82,207,premium_economy,2775,Madrid,Oslo,325,2024-11-07 10:05:00,2024-11-07 15:30:00,SWISS,Oslo,Madrid,325,2024-11-10 18:00:00,2024-11-10 23:25:00,Brussels Airlines
+83,208,premium_economy,3167,Madrid,Oslo,355,2024-11-07 06:00:00,2024-11-07 11:55:00,Scandinavian Airlines,Oslo,Madrid,440,2024-11-10 11:25:00,2024-11-10 18:45:00,Scandinavian Airlines
+84,209,premium_economy,3199,Madrid,Oslo,325,2024-11-07 10:05:00,2024-11-07 15:30:00,SWISS,Oslo,Madrid,410,2024-11-10 15:20:00,2024-11-10 22:10:00,Finnair
+85,210,premium_economy,2794,Madrid,Oslo,325,2024-11-07 10:05:00,2024-11-07 15:30:00,SWISS,Oslo,Madrid,420,2024-11-10 13:15:00,2024-11-10 20:15:00,Finnair
+86,211,premium_economy,3188,Madrid,Oslo,325,2024-11-07 10:05:00,2024-11-07 15:30:00,SWISS,Oslo,Madrid,380,2024-11-10 13:45:00,2024-11-10 20:05:00,Lufthansa
+87,212,premium_economy,3304,Madrid,Oslo,390,2024-11-07 06:15:00,2024-11-07 12:45:00,Lufthansa,Oslo,Madrid,440,2024-11-10 11:25:00,2024-11-10 18:45:00,Scandinavian Airlines
+88,213,business,2263,Madrid,Oslo,315,2024-11-07 17:35:00,2024-11-07 22:50:00,Brussels Airlines,Oslo,Madrid,325,2024-11-10 18:00:00,2024-11-10 23:25:00,Brussels Airlines
+89,214,business,1933,Madrid,Oslo,390,2024-11-07 06:15:00,2024-11-07 12:45:00,Lufthansa,Oslo,Madrid,325,2024-11-10 18:00:00,2024-11-10 23:25:00,Brussels Airlines
+90,215,business,2798,Madrid,Oslo,390,2024-11-07 07:45:00,2024-11-07 14:15:00,Iberia,Oslo,Madrid,230,2024-11-10 15:00:00,2024-11-10 18:50:00,Iberia
+91,216,business,2101,Madrid,Oslo,390,2024-11-07 06:15:00,2024-11-07 12:45:00,Lufthansa,Oslo,Madrid,380,2024-11-10 13:45:00,2024-11-10 20:05:00,Lufthansa
+92,217,business,1773,Madrid,Oslo,645,2024-11-07 06:25:00,2024-11-07 17:10:00,Brussels Airlines,Oslo,Madrid,325,2024-11-10 18:00:00,2024-11-10 23:25:00,Brussels Airlines
+93,218,business,1949,Madrid,Oslo,390,2024-11-07 06:15:00,2024-11-07 12:45:00,Lufthansa,Oslo,Madrid,455,2024-11-10 16:20:00,2024-11-10 23:55:00,Lufthansa
+94,219,business,1811,Madrid,Oslo,500,2024-11-07 06:15:00,2024-11-07 14:35:00,Lufthansa,Oslo,Madrid,325,2024-11-10 18:00:00,2024-11-10 23:25:00,Brussels Airlines
+95,220,business,2798,Madrid,Oslo,410,2024-11-07 15:50:00,2024-11-07 22:40:00,Iberia,Oslo,Madrid,230,2024-11-10 15:00:00,2024-11-10 18:50:00,Iberia
+96,221,business,2370,Madrid,Oslo,350,2024-11-07 12:05:00,2024-11-07 17:55:00,Lufthansa,Oslo,Madrid,380,2024-11-10 13:45:00,2024-11-10 20:05:00,Lufthansa
+97,222,business,1844,Madrid,Oslo,500,2024-11-07 06:15:00,2024-11-07 14:35:00,Lufthansa,Oslo,Madrid,455,2024-11-10 16:20:00,2024-11-10 23:55:00,Lufthansa
+98,223,business,2202,Madrid,Oslo,350,2024-11-07 12:05:00,2024-11-07 17:55:00,Lufthansa,Oslo,Madrid,325,2024-11-10 18:00:00,2024-11-10 23:25:00,Brussels Airlines
+99,224,economy,720,Madrid,Oslo,225,2024-11-14 12:20:00,2024-11-14 16:05:00,Norwegian,Oslo,Madrid,225,2024-11-17 15:30:00,2024-11-17 19:15:00,Norwegian
+100,225,economy,869,Madrid,Oslo,225,2024-11-14 12:20:00,2024-11-14 16:05:00,Norwegian,Oslo,Madrid,230,2024-11-17 15:00:00,2024-11-17 18:50:00,Iberia
+101,226,economy,701,Madrid,Oslo,350,2024-11-14 12:05:00,2024-11-14 17:55:00,Lufthansa,Oslo,Madrid,350,2024-11-17 11:50:00,2024-11-17 17:40:00,Lufthansa
+102,227,economy,741,Madrid,Oslo,380,2024-11-14 09:30:00,2024-11-14 15:50:00,Vueling Airlines,Oslo,Madrid,225,2024-11-17 15:30:00,2024-11-17 19:15:00,Norwegian
+103,228,economy,843,Madrid,Oslo,315,2024-11-14 17:35:00,2024-11-14 22:50:00,Brussels Airlines,Oslo,Madrid,350,2024-11-17 11:50:00,2024-11-17 17:40:00,Lufthansa
+104,229,economy,910,Madrid,Oslo,380,2024-11-14 09:30:00,2024-11-14 15:50:00,Vueling Airlines,Oslo,Madrid,230,2024-11-17 15:00:00,2024-11-17 18:50:00,Iberia
+105,230,economy,847,Madrid,Oslo,350,2024-11-14 12:05:00,2024-11-14 17:55:00,Lufthansa,Oslo,Madrid,345,2024-11-17 13:00:00,2024-11-17 18:45:00,SWISS
+106,231,economy,682,Madrid,Oslo,350,2024-11-14 12:05:00,2024-11-14 17:55:00,Lufthansa,Oslo,Madrid,360,2024-11-17 09:35:00,2024-11-17 15:35:00,Lufthansa
+107,232,economy,836,Madrid,Oslo,350,2024-11-14 12:05:00,2024-11-14 17:55:00,Lufthansa,Oslo,Madrid,380,2024-11-17 13:45:00,2024-11-17 20:05:00,Lufthansa
+108,233,economy,1083,Madrid,Oslo,225,2024-11-14 12:20:00,2024-11-14 16:05:00,Norwegian,Oslo,Madrid,345,2024-11-17 13:00:00,2024-11-17 18:45:00,SWISS
+109,234,economy,928,Madrid,Oslo,350,2024-11-14 12:05:00,2024-11-14 17:55:00,Lufthansa,Oslo,Madrid,225,2024-11-17 15:30:00,2024-11-17 19:15:00,Norwegian
+110,235,premium_economy,2665,Madrid,Oslo,325,2024-11-14 10:05:00,2024-11-14 15:30:00,SWISS,Oslo,Madrid,230,2024-11-17 15:00:00,2024-11-17 18:50:00,Iberia
+111,236,premium_economy,2356,Madrid,Oslo,325,2024-11-14 10:05:00,2024-11-14 15:30:00,SWISS,Oslo,Madrid,440,2024-11-17 11:25:00,2024-11-17 18:45:00,Scandinavian Airlines
+112,237,premium_economy,4095,Madrid,Oslo,325,2024-11-14 10:05:00,2024-11-14 15:30:00,SWISS,Oslo,Madrid,345,2024-11-17 13:00:00,2024-11-17 18:45:00,SWISS
+113,238,premium_economy,3154,Madrid,Oslo,325,2024-11-14 10:05:00,2024-11-14 15:30:00,SWISS,Oslo,Madrid,325,2024-11-17 18:00:00,2024-11-17 23:25:00,Brussels Airlines
+114,239,premium_economy,3154,Madrid,Oslo,355,2024-11-14 06:00:00,2024-11-14 11:55:00,Scandinavian Airlines,Oslo,Madrid,440,2024-11-17 11:25:00,2024-11-17 18:45:00,Scandinavian Airlines
+115,240,premium_economy,3156,Madrid,Oslo,325,2024-11-14 10:05:00,2024-11-14 15:30:00,SWISS,Oslo,Madrid,350,2024-11-17 11:50:00,2024-11-17 17:40:00,Lufthansa
+116,241,premium_economy,2808,Madrid,Oslo,325,2024-11-14 10:05:00,2024-11-14 15:30:00,SWISS,Oslo,Madrid,360,2024-11-17 09:35:00,2024-11-17 15:35:00,Lufthansa
+117,242,premium_economy,3188,Madrid,Oslo,325,2024-11-14 10:05:00,2024-11-14 15:30:00,SWISS,Oslo,Madrid,380,2024-11-17 13:45:00,2024-11-17 20:05:00,Lufthansa
+118,243,premium_economy,3274,Madrid,Oslo,340,2024-11-14 17:55:00,2024-11-14 23:35:00,Scandinavian Airlines,Oslo,Madrid,440,2024-11-17 11:25:00,2024-11-17 18:45:00,Scandinavian Airlines
+119,244,premium_economy,3189,Madrid,Oslo,325,2024-11-14 10:05:00,2024-11-14 15:30:00,SWISS,Oslo,Madrid,410,2024-11-17 15:20:00,2024-11-17 22:10:00,Finnair
+120,245,premium_economy,3131,Madrid,Oslo,315,2024-11-14 17:35:00,2024-11-14 22:50:00,Brussels Airlines,Oslo,Madrid,440,2024-11-17 11:25:00,2024-11-17 18:45:00,Scandinavian Airlines
+121,246,business,2100,Madrid,Oslo,315,2024-11-14 17:35:00,2024-11-14 22:50:00,Brussels Airlines,Oslo,Madrid,325,2024-11-17 18:00:00,2024-11-17 23:25:00,Brussels Airlines
+122,247,business,2812,Madrid,Oslo,390,2024-11-14 07:45:00,2024-11-14 14:15:00,Iberia,Oslo,Madrid,230,2024-11-17 15:00:00,2024-11-17 18:50:00,Iberia
+123,248,business,2121,Madrid,Oslo,315,2024-11-14 17:35:00,2024-11-14 22:50:00,Brussels Airlines,Oslo,Madrid,350,2024-11-17 11:50:00,2024-11-17 17:40:00,Lufthansa
+124,249,business,1959,Madrid,Oslo,500,2024-11-14 06:15:00,2024-11-14 14:35:00,Lufthansa,Oslo,Madrid,360,2024-11-17 09:35:00,2024-11-17 15:35:00,Lufthansa
+125,250,business,2812,Madrid,Oslo,410,2024-11-14 15:50:00,2024-11-14 22:40:00,Iberia,Oslo,Madrid,230,2024-11-17 15:00:00,2024-11-17 18:50:00,Iberia
+126,251,business,2091,Madrid,Oslo,500,2024-11-14 06:15:00,2024-11-14 14:35:00,Lufthansa,Oslo,Madrid,350,2024-11-17 11:50:00,2024-11-17 17:40:00,Lufthansa
+127,252,business,1844,Madrid,Oslo,590,2024-11-14 13:55:00,2024-11-14 23:45:00,Lufthansa,Oslo,Madrid,360,2024-11-17 09:35:00,2024-11-17 15:35:00,Lufthansa
+128,253,business,1940,Madrid,Oslo,615,2024-11-14 12:35:00,2024-11-14 22:50:00,Brussels Airlines,Oslo,Madrid,325,2024-11-17 18:00:00,2024-11-17 23:25:00,Brussels Airlines
+129,254,business,1988,Madrid,Oslo,315,2024-11-14 17:35:00,2024-11-14 22:50:00,Brussels Airlines,Oslo,Madrid,360,2024-11-17 09:35:00,2024-11-17 15:35:00,Lufthansa
+130,255,business,2202,Madrid,Oslo,315,2024-11-14 17:35:00,2024-11-14 22:50:00,Brussels Airlines,Oslo,Madrid,380,2024-11-17 13:45:00,2024-11-17 20:05:00,Lufthansa
+131,256,business,1811,Madrid,Oslo,615,2024-11-14 12:35:00,2024-11-14 22:50:00,Brussels Airlines,Oslo,Madrid,360,2024-11-17 09:35:00,2024-11-17 15:35:00,Lufthansa
+132,257,economy,654,Madrid,Oslo,225,2024-11-21 12:20:00,2024-11-21 16:05:00,Norwegian,Oslo,Madrid,225,2024-11-24 15:30:00,2024-11-24 19:15:00,Norwegian
+133,258,economy,806,Madrid,Oslo,225,2024-11-21 12:20:00,2024-11-21 16:05:00,Norwegian,Oslo,Madrid,230,2024-11-24 15:00:00,2024-11-24 18:50:00,Iberia
+134,259,economy,755,Madrid,Oslo,380,2024-11-21 09:30:00,2024-11-21 15:50:00,Vueling Airlines,Oslo,Madrid,225,2024-11-24 15:30:00,2024-11-24 19:15:00,Norwegian
+135,260,economy,858,Madrid,Oslo,315,2024-11-21 17:35:00,2024-11-21 22:50:00,Brussels Airlines,Oslo,Madrid,325,2024-11-24 18:00:00,2024-11-24 23:25:00,Brussels Airlines
+136,261,economy,847,Madrid,Oslo,350,2024-11-21 12:05:00,2024-11-21 17:55:00,Lufthansa,Oslo,Madrid,350,2024-11-24 11:50:00,2024-11-24 17:40:00,Lufthansa
+137,262,economy,1101,Madrid,Oslo,315,2024-11-21 17:35:00,2024-11-21 22:50:00,Brussels Airlines,Oslo,Madrid,225,2024-11-24 15:30:00,2024-11-24 19:15:00,Norwegian
+138,263,economy,858,Madrid,Oslo,315,2024-11-21 17:35:00,2024-11-21 22:50:00,Brussels Airlines,Oslo,Madrid,350,2024-11-24 11:50:00,2024-11-24 17:40:00,Lufthansa
+139,264,economy,865,Madrid,Oslo,315,2024-11-21 17:35:00,2024-11-21 22:50:00,Brussels Airlines,Oslo,Madrid,380,2024-11-24 13:45:00,2024-11-24 20:05:00,Lufthansa
+140,265,economy,1064,Madrid,Oslo,315,2024-11-21 11:00:00,2024-11-21 16:15:00,KLM,Oslo,Madrid,225,2024-11-24 15:30:00,2024-11-24 19:15:00,Norwegian
+141,266,economy,847,Madrid,Oslo,500,2024-11-21 06:15:00,2024-11-21 14:35:00,Lufthansa,Oslo,Madrid,225,2024-11-24 15:30:00,2024-11-24 19:15:00,Norwegian
+142,267,economy,954,Madrid,Oslo,225,2024-11-21 12:20:00,2024-11-21 16:05:00,Norwegian,Oslo,Madrid,350,2024-11-24 11:50:00,2024-11-24 17:40:00,Lufthansa
+143,268,premium_economy,2514,Madrid,Oslo,325,2024-11-21 10:05:00,2024-11-21 15:30:00,SWISS,Oslo,Madrid,230,2024-11-24 15:00:00,2024-11-24 18:50:00,Iberia
+144,269,premium_economy,2672,Madrid,Oslo,325,2024-11-21 10:05:00,2024-11-21 15:30:00,SWISS,Oslo,Madrid,440,2024-11-24 11:25:00,2024-11-24 18:45:00,Scandinavian Airlines
+145,270,premium_economy,2886,Madrid,Oslo,325,2024-11-21 10:05:00,2024-11-21 15:30:00,SWISS,Oslo,Madrid,380,2024-11-24 16:45:00,2024-11-24 23:05:00,Scandinavian Airlines
+146,271,premium_economy,3308,Madrid,Oslo,355,2024-11-21 06:00:00,2024-11-21 11:55:00,Scandinavian Airlines,Oslo,Madrid,440,2024-11-24 11:25:00,2024-11-24 18:45:00,Scandinavian Airlines
+147,272,premium_economy,3771,Madrid,Oslo,325,2024-11-21 10:05:00,2024-11-21 15:30:00,SWISS,Oslo,Madrid,350,2024-11-24 11:50:00,2024-11-24 17:40:00,Lufthansa
+148,273,premium_economy,3267,Madrid,Oslo,315,2024-11-21 17:35:00,2024-11-21 22:50:00,Brussels Airlines,Oslo,Madrid,440,2024-11-24 11:25:00,2024-11-24 18:45:00,Scandinavian Airlines
+149,274,premium_economy,3347,Madrid,Oslo,325,2024-11-21 10:05:00,2024-11-21 15:30:00,SWISS,Oslo,Madrid,410,2024-11-24 15:20:00,2024-11-24 22:10:00,Finnair
+150,275,premium_economy,3304,Madrid,Oslo,390,2024-11-21 06:15:00,2024-11-21 12:45:00,Lufthansa,Oslo,Madrid,440,2024-11-24 11:25:00,2024-11-24 18:45:00,Scandinavian Airlines
+151,276,premium_economy,3446,Madrid,Oslo,325,2024-11-21 10:05:00,2024-11-21 15:30:00,SWISS,Oslo,Madrid,420,2024-11-24 12:40:00,2024-11-24 19:40:00,Scandinavian Airlines
+152,277,premium_economy,2911,Madrid,Oslo,325,2024-11-21 10:05:00,2024-11-21 15:30:00,SWISS,Oslo,Madrid,325,2024-11-24 18:00:00,2024-11-24 23:25:00,Brussels Airlines
+153,278,premium_economy,3829,Madrid,Oslo,325,2024-11-21 10:05:00,2024-11-21 15:30:00,SWISS,Oslo,Madrid,415,2024-11-24 11:25:00,2024-11-24 18:20:00,Finnair
+154,279,business,2120,Madrid,Oslo,315,2024-11-21 17:35:00,2024-11-21 22:50:00,Brussels Airlines,Oslo,Madrid,325,2024-11-24 18:00:00,2024-11-24 23:25:00,Brussels Airlines
+155,280,business,1844,Madrid,Oslo,500,2024-11-21 06:15:00,2024-11-21 14:35:00,Lufthansa,Oslo,Madrid,380,2024-11-24 13:45:00,2024-11-24 20:05:00,Lufthansa
+156,281,business,2866,Madrid,Oslo,390,2024-11-21 07:45:00,2024-11-21 14:15:00,Iberia,Oslo,Madrid,230,2024-11-24 15:00:00,2024-11-24 18:50:00,Iberia
+157,282,business,2211,Madrid,Oslo,315,2024-11-21 17:35:00,2024-11-21 22:50:00,Brussels Airlines,Oslo,Madrid,345,2024-11-24 13:00:00,2024-11-24 18:45:00,SWISS
+158,283,business,2053,Madrid,Oslo,390,2024-11-21 06:15:00,2024-11-21 12:45:00,Lufthansa,Oslo,Madrid,380,2024-11-24 13:45:00,2024-11-24 20:05:00,Lufthansa
+159,284,business,2028,Madrid,Oslo,315,2024-11-21 17:35:00,2024-11-21 22:50:00,Brussels Airlines,Oslo,Madrid,380,2024-11-24 13:45:00,2024-11-24 20:05:00,Lufthansa
+160,285,business,2866,Madrid,Oslo,410,2024-11-21 15:50:00,2024-11-21 22:40:00,Iberia,Oslo,Madrid,230,2024-11-24 15:00:00,2024-11-24 18:50:00,Iberia
+161,286,business,1844,Madrid,Oslo,500,2024-11-21 06:15:00,2024-11-21 14:35:00,Lufthansa,Oslo,Madrid,455,2024-11-24 16:20:00,2024-11-24 23:55:00,Lufthansa
+162,287,business,2191,Madrid,Oslo,390,2024-11-21 06:15:00,2024-11-21 12:45:00,Lufthansa,Oslo,Madrid,345,2024-11-24 13:00:00,2024-11-24 18:45:00,SWISS
+163,288,business,1987,Madrid,Oslo,500,2024-11-21 06:15:00,2024-11-21 14:35:00,Lufthansa,Oslo,Madrid,345,2024-11-24 13:00:00,2024-11-24 18:45:00,SWISS
+164,289,business,2053,Madrid,Oslo,390,2024-11-21 06:15:00,2024-11-21 12:45:00,Lufthansa,Oslo,Madrid,455,2024-11-24 16:20:00,2024-11-24 23:55:00,Lufthansa
