@@ -1,13 +1,57 @@
-# Proyecto3-Explorando-Viajes
+# 🏖️ Proyecto3 - Explorando Viajes 🌍
 
-El objetivo del proyecto es localizar una estancia, para un grupo de amigos de 4 personas que quiere un viaje de fin de semana entre la última semana de octubre o cualquier fin de semana de noviembre.
+Este proyecto tiene como objetivo planificar un viaje de fin de semana para un grupo de 4 amigos interesados en hacer turismo en dos destinos posibles: Oslo y Mónaco. El grupo está disponible para viajar durante la última semana de octubre o cualquier fin de semana de noviembre, y ha solicitado una lista de 60 actividades turísticas variadas para disfrutar durante su estancia.
 
-Vamos a presentarles varias opciones, un viaje a Oslo y un viaje a mónaco, el grupo ha pedido hacer turismo básico y entregarles una lista de 60 actividades variadas que puedan realizarse durante esos días.
+## Descripción del Proyecto 🛫
 
-Se nos ha solicitado obtener los precios de alojamientos completos, para 4 personas, como punto adicional se nos ha solicitado para oslo, saquemos cabañas o casas a pie de playa, los clientes conocen que las cabañas se encuentran lejos de la ciudad de oslo y que tendrán que alquilar un coche de alquiler
+El proyecto se centra en la recolección y análisis de datos sobre vuelos, alojamientos y actividades turísticas para ambos destinos. Se ha utilizado una combinación de APIs y técnicas de web scraping para obtener información actualizada y detallada sobre:
 
-Los clientes no han dado un presupuesto, pero nos han dado a entender que el disfrute del viaje y la estancia tienen más peso que las actividades que puedan realizar.
+- Vuelos: Precios, horarios y duración de vuelos de ida y vuelta.
+- Alojamientos: Precios y disponibilidad de alojamientos en Mónaco y Oslo (Airbnb).
+- Actividades: Se ha recopilado una lista de 60 actividades variadas en cada ciudad para ofrecer una experiencia turística completa.
 
-# Plan
+## Estructura del Proyecto 🗂️
 
-Usando 
+```bash
+Proyecto3-Explorando-Viajes/
+├── datos/               # Datos crudos y procesados
+│   ├── vuelos/          # Información sobre vuelos a Mónaco y Oslo
+│   ├── alojamientos/    # Datos de alojamientos Airbnb en ambos destinos
+│   ├── actividades/     # Listas de actividades turísticas en Oslo y Mónaco
+├── jupyter_notebooks/   # Notebooks Jupyter con el análisis y las visualizaciones
+├── src/                 # Scripts para el procesamiento de datos
+└── README.md            # Descripción del proyecto
+```
+## Instalación y Requisitos 🛠️
+### Requisitos
+Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
+
+- Python 3.x 🐍
+- Jupyter Notebook 📓
+
+- Bibliotecas de Python:
+    - [pandas](https://pandas.pydata.org/docs/) para manipulación de datos 🧹
+    - [numpy](https://numpy.org/doc/2.1/) para cálculos numéricos 🔢
+    - [matplotlib](https://matplotlib.org/stable/index.html) y [seaborn](https://seaborn.pydata.org/) para visualización de datos 📊
+    - [requests](https://requests.readthedocs.io/en/latest/) y [beautifulsoup4](https://beautiful-soup-4.readthedocs.io/en/latest/) para scraping de sitios web 🌐
+
+### Instalación 🛠️
+
+1. Clona este repositorio y navega al directorio del proyecto:
+```bash
+git clone https://github.com/tuusuario/Proyecto3-Explorando-Viajes.git
+cd Proyecto3-Explorando-Viajes
+```
+## Gráfica de Precios de Alojamientos 🏡
+
+El siguiente gráfico muestra la evolución de los precios medios de los alojamientos (Airbnb) por fecha de entrada en Mónaco y Oslo. Esta información es clave para que los viajeros elijan la opción que mejor se adapte a su presupuesto:
+![Precios Mónaco](src/png/0_Precios_monaco.png)
+![Precios Oslo](src/png/1_Precios_oslo.png)
+
+## Conclusiones ✈️
+
+Este análisis ha permitido:
+
+1. Ofrecer dos opciones de destinos turísticos (Oslo y Mónaco) con datos completos sobre vuelos, alojamientos y actividades.
+2. Visualizar y comparar los precios medios de alojamientos para diferentes fines de semana.
+3. Proporcionar al grupo de amigos una experiencia de viaje personalizada con 60 actividades seleccionadas según sus intereses.
