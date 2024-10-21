@@ -18,8 +18,12 @@ Proyecto3-Explorando-Viajes/
 │   ├── vuelos/          # Información sobre vuelos a Mónaco y Oslo
 │   ├── alojamientos/    # Datos de alojamientos Airbnb en ambos destinos
 │   ├── actividades/     # Listas de actividades turísticas en Oslo y Mónaco
+│   ├── html_backups/    # Html Descargados para hacer beautiful Soup
+│   ├── json_backups/    # Jsons descargados para no saturar la API
+│   ├── anaconda_prereq/ # Pequeña documentación sobre la creación de Anaconda
 ├── jupyter_notebooks/   # Notebooks Jupyter con el análisis y las visualizaciones
-├── src/                 # Scripts para el procesamiento de datos
+├── src/  
+│    ├── png/            # Fotos de las gráficas
 └── README.md            # Descripción del proyecto
 ```
 ## Instalación y Requisitos 🛠️
@@ -28,12 +32,12 @@ Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 
 - Python 3.x 🐍
 - Jupyter Notebook 📓
-
 - Bibliotecas de Python:
     - [pandas](https://pandas.pydata.org/docs/) para manipulación de datos 🧹
     - [numpy](https://numpy.org/doc/2.1/) para cálculos numéricos 🔢
     - [matplotlib](https://matplotlib.org/stable/index.html) y [seaborn](https://seaborn.pydata.org/) para visualización de datos 📊
     - [requests](https://requests.readthedocs.io/en/latest/) y [beautifulsoup4](https://beautiful-soup-4.readthedocs.io/en/latest/) para scraping de sitios web 🌐
+- API de [Air Scraper](https://rapidapi.com/apiheya/api/sky-scrapper)
 
 ### Instalación 🛠️
 
