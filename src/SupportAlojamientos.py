@@ -1,28 +1,46 @@
 # Importamos las librerías que necesitamos
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from bs4 import BeautifulSoup
-import time
-# Librerías de extracción de datos
-# -----------------------------------------------------------------------
-from bs4 import BeautifulSoup
-import requests
-import tqdm
-# Tratamiento de datos
-# -----------------------------------------------------------------------
-import pandas as pd
-import numpy as np
-import datetime
 
-# Requests
-import requests
+# Librerías para automatización de navegadores (Selenium)
+# -----------------------------------------------------------------------
+from selenium import webdriver                   # Control automático del navegador para realizar scraping web
+from selenium.webdriver.chrome.service import Service  # Maneja el servicio de ChromeDriver
+from selenium.webdriver.common.by import By      # Para seleccionar elementos en la página web (DOM)
+from selenium.webdriver.chrome.options import Options  # Configuración de opciones del navegador (headless mode, etc.)
+import time                                      # Para gestionar pausas y temporización
 
-from time import sleep
-import random
+# Librerías para extracción de datos y scraping
+# -----------------------------------------------------------------------
+from bs4 import BeautifulSoup  # Para analizar y extraer datos de HTML y XML (scraping web)
+
+# Librerías para tratamiento y manipulación de datos
+# -----------------------------------------------------------------------
+import pandas as pd             # Para manipulación de estructuras de datos como DataFrames
+import numpy as np              # Para cálculos numéricos y manejo de arrays
+import datetime                 # Para manipulación de fechas y tiempos
+
+# Manejo del tiempo y generación de pausas
+# -----------------------------------------------------------------------
+from time import sleep          # Pausar la ejecución del código durante un tiempo definido
 
 def obtain_html(urls,routes):
+    """
+    Función para obtener el HTML de varias URLs usando Selenium, hacer clic en el botón de aceptación de cookies
+    y guardar el HTML en archivos locales.
+
+    Args:
+    urls (list): Lista de URLs de las páginas que se van a scrapeear.
+    routes (list): Lista de rutas donde se guardarán los archivos HTML correspondientes.
+
+    Returns:
+    None: Esta función no devuelve ningún valor. Los archivos HTML se guardan en las rutas especificadas.
+    
+    Proceso:
+    - Navega a cada URL usando Selenium.
+    - Espera a que la página cargue y realiza la acción de aceptar cookies.
+    - Extrae el contenido completo de la página después de que el JavaScript haya cargado.
+    - Guarda el contenido HTML en un archivo local.
+    - Cierra el navegador después de cada iteración.
+    """
     for i in range(0,len(urls)):
         # Iniciar el driver
         driver = webdriver.Chrome()
@@ -47,6 +65,20 @@ def obtain_html(urls,routes):
     return
 
 def make_df(soups):
+    """
+    Función para extraer datos de varias páginas HTML y convertirlos en un DataFrame de pandas.
+
+    Args:
+    soups (list): Lista de objetos BeautifulSoup, cada uno representando una página HTML.
+
+    Returns:
+    pd.DataFrame: Un DataFrame que contiene la información extraída, incluyendo título, descripción, precio y fechas de entrada/salida.
+
+    Proceso:
+    - Busca en cada página HTML elementos específicos que contengan la información de interés (título, descripción, precio y fechas).
+    - Extrae y limpia los datos utilizando BeautifulSoup.
+    - Crea un DataFrame temporal para cada página y concatena los resultados en un solo DataFrame final.
+    """
     df = pd.DataFrame()
     for soup in soups:
         busqueda_general = soup.find_all("div",{"class":'g1qv1ctd atm_u80d3j_1li1fea atm_c8_o7aogt atm_g3_8jkm7i c1v0rf5q atm_9s_11p5wf0 atm_cx_4wguik atm_dz_7esijk atm_e0_1lo05zz dir dir-ltr'})

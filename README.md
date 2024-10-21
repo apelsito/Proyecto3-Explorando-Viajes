@@ -45,6 +45,7 @@ cd Proyecto3-Explorando-Viajes
 ## Gráfica de Precios de Alojamientos 🏡
 
 El siguiente gráfico muestra la evolución de los precios medios de los alojamientos (Airbnb) por fecha de entrada en Mónaco y Oslo. Esta información es clave para que los viajeros elijan la opción que mejor se adapte a su presupuesto:
+
 ![Precios Mónaco](src/png/0_Precios_monaco.png)
 ![Precios Oslo](src/png/1_Precios_oslo.png)
 
@@ -55,3 +56,17 @@ Este análisis ha permitido:
 1. Ofrecer dos opciones de destinos turísticos (Oslo y Mónaco) con datos completos sobre vuelos, alojamientos y actividades.
 2. Visualizar y comparar los precios medios de alojamientos para diferentes fines de semana.
 3. Proporcionar al grupo de amigos una experiencia de viaje personalizada con 60 actividades seleccionadas según sus intereses.
+
+# Contribuciones 🤝
+
+Las contribuciones a este proyecto son muy bienvenidas. Si tienes alguna sugerencia, mejora o corrección, no dudes en ponerte en contacto o enviar tus ideas.
+
+Cualquier tipo de contribución, ya sea en código, documentación o feedback, será valorada. ¡Gracias por tu ayuda y colaboración!
+
+# Autores y Agradecimientos ✍️
+
+## Autor ✒️
+**Gonzalo Ruipérez Ojea** - [@apelsito](https://github.com/juanperez) en github
+
+## Agradecimientos
+Quiero expresar mi agradecimiento a **Hackio** y su equipo por brindarme la capacidad y las herramientas necesarias para realizar este proyecto con solo una semana de formación. Su apoyo ha sido clave para lograr este trabajo.
