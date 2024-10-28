@@ -87,7 +87,9 @@ def make_df(soups):
         titulos = [nombre.contents[0].getText() for nombre in busqueda_general]
         descripcion = [descripcion.contents[1].getText() for descripcion in busqueda_general]
         precio = [precio.contents[4].getText().split()[7] for precio in busqueda_general]
-        
+        print(fechas[1].split(" – ")[0])
+        print(fechas[1].split(" – ")[1])
+
         df_temp = pd.DataFrame({
             "Título":titulos,
             "Descripción":descripcion,
