@@ -74,8 +74,8 @@ En la gráfica de distribución de calificaciones de actividades en Mónaco y Os
 
 ## Top 10 Actividades en Mónaco y Oslo
 
-![Top 10 Mónaco](src/png/02_top_mejores_actividades_monaco.png)
-![Top 10 Oslo](src/png/03_top_mejores_actividades_oslo.png)
+![Top 10 Mónaco](src/png/02_top_mejores_actividades_monaco.png)![Top 10 Oslo](src/png/03_top_mejores_actividades_oslo.png)
+
 
 
 ## Conclusiones ✈️
