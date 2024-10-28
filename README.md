@@ -35,8 +35,11 @@ Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 - Bibliotecas de Python:
     - [pandas](https://pandas.pydata.org/docs/) para manipulación de datos 🧹
     - [numpy](https://numpy.org/doc/2.1/) para cálculos numéricos 🔢
-    - [matplotlib](https://matplotlib.org/stable/index.html) y [seaborn](https://seaborn.pydata.org/) para visualización de datos 📊
-    - [requests](https://requests.readthedocs.io/en/latest/) y [beautifulsoup4](https://beautiful-soup-4.readthedocs.io/en/latest/) para scraping de sitios web 🌐
+    - [selenium]()
+    - [matplotlib](https://matplotlib.org/stable/index.html)
+    - [seaborn](https://seaborn.pydata.org/) para visualización de datos 📊
+    - [requests](https://requests.readthedocs.io/en/latest/)
+    - [beautifulsoup4](https://beautiful-soup-4.readthedocs.io/en/latest/) para scraping de sitios web 🌐
 - API de [Air Scraper](https://rapidapi.com/apiheya/api/sky-scrapper)
 
 ### Instalación 🛠️
@@ -70,7 +73,7 @@ Cualquier tipo de contribución, ya sea en código, documentación o feedback, s
 # Autores y Agradecimientos ✍️
 
 ## Autor ✒️
-**Gonzalo Ruipérez Ojea** - [@apelsito](https://github.com/juanperez) en github
+**Gonzalo Ruipérez Ojea** - [@apelsito](https://github.com/apelsito) en github
 
 ## Agradecimientos
 Quiero expresar mi agradecimiento a **Hackio** y su equipo por brindarme la capacidad y las herramientas necesarias para realizar este proyecto con solo una semana de formación. Su apoyo ha sido clave para lograr este trabajo.
