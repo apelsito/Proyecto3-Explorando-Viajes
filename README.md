@@ -35,12 +35,12 @@ Para ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 - Bibliotecas de Python:
     - [pandas](https://pandas.pydata.org/docs/) para manipulación de datos 🧹
     - [numpy](https://numpy.org/doc/2.1/) para cálculos numéricos 🔢
-    - [selenium]()
-    - [matplotlib](https://matplotlib.org/stable/index.html)
+    - [selenium](https://selenium-python.readthedocs.io/) Automatización de navegadores para scraping de datos.🌐
+    - [matplotlib](https://matplotlib.org/stable/index.html) Visualización gráfica de datos.📊
     - [seaborn](https://seaborn.pydata.org/) para visualización de datos 📊
-    - [requests](https://requests.readthedocs.io/en/latest/)
+    - [requests](https://requests.readthedocs.io/en/latest/) Realización de peticiones HTTP para acceder a datos en línea.🌍
     - [beautifulsoup4](https://beautiful-soup-4.readthedocs.io/en/latest/) para scraping de sitios web 🌐
-- API de [Air Scraper](https://rapidapi.com/apiheya/api/sky-scrapper)
+- API de [Air Scraper](https://rapidapi.com/apiheya/api/sky-scrapper) API para obtener información de vuelos y precios.✈️
 
 ### Instalación 🛠️
 
